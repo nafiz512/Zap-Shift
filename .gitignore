@@ -23,4 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 .env
-src
+
+
+components
+contexts
+firebase
+hooks
+pages
+
+pages
